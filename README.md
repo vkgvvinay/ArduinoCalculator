@@ -6,3 +6,7 @@ I have included the circuit diagram and the code which is very easy to understan
 Though the code is not optimised and there are libraries for using Keypad which are not used here,I feel as a beginner avoiding usage of predefined libraries would help expanding understanding and thinking ability.
 
 Please find the circuit and the code attached.To simulate the circuit you can register with your details at 'www.tinkercad.com' and simulate in circuits section,you can also find the tutorial online.Use the code given in the code editor window and also try to understand the code as it is self explanatory
+
+Arduino Tutorial  :https://www.youtube.com/watch?v=nL34zDTPkcs
+Keypad Tutorial   :https://www.youtube.com/watch?v=gWvIzQLoP0I
+LCD Tutorial      :https://www.youtube.com/watch?v=e6cnpYIv0vU
