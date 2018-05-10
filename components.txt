@@ -1,0 +1,6 @@
+Arduino Uno R3
+Keypad 4x4
+LCD 16 x 2
+Potentiometer
+220 ohm Resistor
+Four 10 kohm Resistors
